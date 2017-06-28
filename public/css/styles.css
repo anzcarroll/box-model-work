@@ -9,6 +9,10 @@
     width: 100px;
     height: 100px;
     display: inline-block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 #square1 {
     background-color: red;
@@ -31,9 +35,17 @@ background-color: yellow;
 }
 
 #square6 {
-background-color: purple;
+background-color: greenyellow;
 }
 
-* {
-    border: 1px solid red !important;
+#square7 {
+background-color: violet;
+}
+
+#square8 {
+background-color: olive;
+}
+
+#square9 {
+background-color: orange;
 }
