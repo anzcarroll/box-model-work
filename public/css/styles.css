@@ -1,0 +1,39 @@
+#container {
+    height: 500px;
+    width: 500px;
+    padding: 20px;
+    margin: 20px;
+    background-color: gray;
+}
+.squares {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+#square1 {
+    background-color: red;
+}
+
+#square2 {
+    background-color: blue;
+}
+
+#square3 {
+    background-color: green;
+}
+
+ #square4 {
+background-color: black;
+}
+
+#square5 {
+background-color: yellow;
+}
+
+#square6 {
+background-color: purple;
+}
+
+* {
+    border: 1px solid red !important;
+}
